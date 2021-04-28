@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.email-container {
+    margin-top:50px ;
+    padding: 50px;
+    
+}
+#log-success {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+#log-fail {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+img {
+    width: 10%; 
+    margin-right: 50px;
+    transition: 10s;
+}
+
+span{
+    font-size: 40px;
+}
+
+.container-dadi {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.dadi {
+    border-radius: 15px;
+    padding-top: 50px;
+    margin: auto;
+    padding: 50px;
+    width: 50%;
+    background: rgb(231, 231, 231);
+}
+
+#scontro{
+    margin-top: 50px;
+}
+
